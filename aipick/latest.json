@@ -1,23 +1,27 @@
 {
- "ts": "2026-10-12T21:00:05.804163",
+ "ts": "2026-10-12T22:01:32.852125",
  "date": "2026-10-09",
  "rule": "未涨停+主板+涨幅0.5-7%+240日位<60%, 五因子评分(量比/动量/低位/收盘强度/规模)",
  "anchor": "量比4-9+涨2-5%+近高: n=206 avg+1.32% win48% 冲高5%=35.4% (全历史网格回测最优)",
  "global": {
-  "global_score": 11.5,
-  "global_mood": "中性",
-  "pos_weight": 0.25,
-  "suggest": "全球中性: 维持半仓纪律"
+  "global_score": -19.6,
+  "global_mood": "偏空",
+  "pos_weight": 0.35,
+  "suggest": "全球偏空: 减半仓位, 只取低位防御, 14:45前弱即走"
  },
+ "adapt": {
+  "note": "无对账数据"
+ },
+ "cycle": "中性",
  "picks": [
   {
-   "symbol": "sz002923",
-   "close": 12.25,
-   "ret": 0.065,
-   "vratio": 7.682,
-   "pos240": 0.325,
-   "close_pos": 0.805,
-   "score": 0.775
+   "symbol": "sh603863",
+   "close": 13.88,
+   "ret": 0.019,
+   "vratio": 5.61,
+   "pos240": 0.231,
+   "close_pos": 0.955,
+   "score": 0.721
   },
   {
    "symbol": "sz002182",
@@ -26,25 +30,16 @@
    "vratio": 4.895,
    "pos240": 0.136,
    "close_pos": 0.829,
-   "score": 0.708
+   "score": 0.596
   },
   {
-   "symbol": "sh603863",
-   "close": 13.88,
-   "ret": 0.019,
-   "vratio": 5.61,
-   "pos240": 0.231,
-   "close_pos": 0.955,
-   "score": 0.7
-  },
-  {
-   "symbol": "sz001318",
-   "close": 13.43,
-   "ret": 0.047,
-   "vratio": 6.894,
-   "pos240": 0.472,
-   "close_pos": 0.602,
-   "score": 0.542
+   "symbol": "sz002923",
+   "close": 12.25,
+   "ret": 0.065,
+   "vratio": 7.682,
+   "pos240": 0.325,
+   "close_pos": 0.805,
+   "score": 0.592
   },
   {
    "symbol": "sh603810",
@@ -53,7 +48,7 @@
    "vratio": 5.039,
    "pos240": 0.317,
    "close_pos": 0.496,
-   "score": 0.5
+   "score": 0.446
   },
   {
    "symbol": "sh603906",
@@ -62,25 +57,7 @@
    "vratio": 6.386,
    "pos240": 0.33,
    "close_pos": 0.206,
-   "score": 0.492
-  },
-  {
-   "symbol": "sz000869",
-   "close": 19.38,
-   "ret": 0.033,
-   "vratio": 7.601,
-   "pos240": 0.592,
-   "close_pos": 0.555,
-   "score": 0.488
-  },
-  {
-   "symbol": "sz000678",
-   "close": 12.62,
-   "ret": 0.031,
-   "vratio": 5.742,
-   "pos240": 0.563,
-   "close_pos": 0.7,
-   "score": 0.467
+   "score": 0.421
   },
   {
    "symbol": "sz002105",
@@ -89,25 +66,25 @@
    "vratio": 4.861,
    "pos240": 0.337,
    "close_pos": 0.632,
-   "score": 0.462
+   "score": 0.392
   },
   {
-   "symbol": "sh605378",
-   "close": 18.08,
+   "symbol": "sz000678",
+   "close": 12.62,
+   "ret": 0.031,
+   "vratio": 5.742,
+   "pos240": 0.563,
+   "close_pos": 0.7,
+   "score": 0.383
+  },
+  {
+   "symbol": "sz001318",
+   "close": 13.43,
    "ret": 0.047,
-   "vratio": 5.114,
-   "pos240": 0.373,
-   "close_pos": 0.336,
-   "score": 0.454
-  },
-  {
-   "symbol": "sh600052",
-   "close": 4.12,
-   "ret": 0.059,
-   "vratio": 4.615,
-   "pos240": 0.394,
-   "close_pos": 0.563,
-   "score": 0.342
+   "vratio": 6.894,
+   "pos240": 0.472,
+   "close_pos": 0.602,
+   "score": 0.371
   },
   {
    "symbol": "sh600615",
@@ -116,7 +93,34 @@
    "vratio": 5.159,
    "pos240": 0.378,
    "close_pos": 0.438,
-   "score": 0.321
+   "score": 0.329
+  },
+  {
+   "symbol": "sz000869",
+   "close": 19.38,
+   "ret": 0.033,
+   "vratio": 7.601,
+   "pos240": 0.592,
+   "close_pos": 0.555,
+   "score": 0.3
+  },
+  {
+   "symbol": "sh605378",
+   "close": 18.08,
+   "ret": 0.047,
+   "vratio": 5.114,
+   "pos240": 0.373,
+   "close_pos": 0.336,
+   "score": 0.283
+  },
+  {
+   "symbol": "sh600052",
+   "close": 4.12,
+   "ret": 0.059,
+   "vratio": 4.615,
+   "pos240": 0.394,
+   "close_pos": 0.563,
+   "score": 0.242
   }
  ]
 }
