@@ -5,7 +5,8 @@ cloud_analysis.py — 纯统计云端分析引擎 (无AI, 可在GitHub Actions�
 输出: cloud_analysis.json = 市场统计 + 推演 + 预测(统计外推, 非投资建议)
 用法: python3 cloud_analysis.py --out cloud_analysis.json [--src github|local]
 """
-import json, os, sys, urllib.request, datetime
+import json, os, re, sys, socket, urllib.request, datetime
+socket.setdefaulttimeout(20)
 from collections import defaultdict
 
 RAW = "https://raw.githubusercontent.com/qwerzxcva"
@@ -104,13 +105,13 @@ def analyze():
                             "phase": (lat.get("phase") or {}).get("stage"),
                             "global_score": ((lat.get("global") or {}).get("metrics") or {}).get("global_score"),
                             "zt_rate": mkt.get("zt_rate")}
-        # 涨停池题材聚类
+        # 热点推演题材(news_count×情绪差加权)
+        ths = lat.get("themes") or []
+        out["theme_heat"] = [[t.get("name"), t.get("news_count"), (t.get("pos") or 0) - (t.get("neg") or 0)]
+                              for t in ths[:8] if isinstance(t, dict)]
+        # 涨停池题材命中标记计数
         picks = lat.get("picks") or []
-        themes = defaultdict(int)
-        for p in picks:
-            for t in (p.get("theme") or []):
-                themes[t] += 1
-        out["theme_heat"] = sorted(themes.items(), key=lambda x: -x[1])[:8]
+        out["zt_theme_hits"] = sum(1 for p in picks if p.get("theme_hit"))
     # 3) 行业资金(Westock)
     ws = fetch("westock")
     if ws:
