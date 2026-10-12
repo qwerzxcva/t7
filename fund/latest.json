@@ -1,5 +1,5 @@
 {
- "ts": "2026-10-13T04:30:01.293904",
+ "ts": "2026-10-13T06:30:01.480050",
  "date": "2026-10-13",
  "valuation": {
   "001594": {
@@ -25,6 +25,11 @@
  },
  "valuation_ok": 5,
  "crypto_news": [
+  {
+   "src": "chainthink",
+   "title": "USDC Treasury在Solana网络新增铸造2.5亿枚USDC",
+   "text": "ChainThink 消息，北京时间10月13日05:49，USDC Treasury在Solana网络新增铸造2.5亿枚USDC。 此次铸造数量为2.5亿枚。"
+  },
   {
    "src": "chainthink",
    "title": "Robinhood CEO：将加大对Robinhood链建设者的投入，将很快公布细节",
@@ -94,11 +99,6 @@
    "src": "chainthink",
    "title": "Palantir创历史新高，美股AI应用软件股持续活跃",
    "text": "ChainThink 消息，10月12日，据行情数据显示，美股 AI 应用软件股持续活跃，Palantir（PLTR.US）涨超1%并再创新高；ServiceNow（NOW.US）、Shopify（SHOP.US）和赛富时（CRM.US）涨超3%，SAP SE（SAP.US）、Snap（SNAP.U"
-  },
-  {
-   "src": "chainthink",
-   "title": "美股加密货币概念股由跌转涨，MSTR涨2.04%",
-   "text": "ChainThink 消息，10 月 12 日，据行情数据显示，美股加密货币概念股由跌转涨。其中，MSTR 涨 2.04%，COIN 涨 2.08%，CRCL 涨 0.91%，SBET 涨 0.93%，BMNR 涨 1.01%，HOOD 涨 0.34%，ABTC 涨 6.73%。"
   }
  ],
  "crypto_ok": 15,
