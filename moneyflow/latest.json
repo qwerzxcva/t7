@@ -1,275 +1,275 @@
 {
- "ts": "2026-10-12T14:30:01.932778",
+ "ts": "2026-10-12T19:00:02.145747",
  "flows": {
   "sh600052": {
-   "date": "2026-10-09",
-   "close": 4.12,
-   "pct": 5.91,
-   "net_main_wan": 2702.5,
-   "r0_wan": 6807.1,
-   "turnover_wan": 751.9,
-   "net3_wan": 3654.7
+   "date": "2026-10-12",
+   "close": 4.2,
+   "pct": 1.94,
+   "net_main_wan": 1496.8,
+   "r0_wan": 8996.2,
+   "turnover_wan": 740.3,
+   "net3_wan": 5424.0
   },
   "sh600289": {
-   "date": "2026-10-09",
-   "close": 4.97,
-   "pct": 2.9,
-   "net_main_wan": -352.9,
-   "r0_wan": 295.5,
-   "turnover_wan": 151.2,
-   "net3_wan": 1983.2
-  },
-  "sh600403": {
-   "date": "2026-10-09",
-   "close": 7.53,
-   "pct": 1.62,
-   "net_main_wan": 4402.5,
-   "r0_wan": 31310.3,
-   "turnover_wan": 511.3,
-   "net3_wan": 15850.8
+   "date": "2026-10-12",
+   "close": 4.95,
+   "pct": -0.6,
+   "net_main_wan": -260.2,
+   "r0_wan": 0.0,
+   "turnover_wan": 99.8,
+   "net3_wan": 1604.2
   },
   "sh600615": {
-   "date": "2026-10-09",
-   "close": 9.89,
-   "pct": 2.38,
-   "net_main_wan": 535.2,
-   "r0_wan": 1230.6,
-   "turnover_wan": 444.7,
-   "net3_wan": 2662.7
+   "date": "2026-10-12",
+   "close": 9.47,
+   "pct": -4.25,
+   "net_main_wan": -376.4,
+   "r0_wan": 1280.6,
+   "turnover_wan": 321.9,
+   "net3_wan": 2742.5
   },
-  "sh600792": {
-   "date": "2026-10-09",
-   "close": 5.04,
-   "pct": -3.45,
-   "net_main_wan": -3428.5,
-   "r0_wan": 10042.0,
-   "turnover_wan": 834.8,
-   "net3_wan": -3163.0
+  "sh600825": {
+   "date": "2026-10-12",
+   "close": 13.78,
+   "pct": 9.98,
+   "net_main_wan": 1955.5,
+   "r0_wan": 36924.1,
+   "turnover_wan": 338.3,
+   "net3_wan": 40210.9
   },
   "sh601965": {
-   "date": "2026-10-09",
-   "close": 14.35,
-   "pct": 2.14,
-   "net_main_wan": 3539.8,
-   "r0_wan": 3950.5,
-   "turnover_wan": 196.2,
-   "net3_wan": 10350.2
+   "date": "2026-10-12",
+   "close": 14.22,
+   "pct": -0.91,
+   "net_main_wan": -2596.2,
+   "r0_wan": 12194.8,
+   "turnover_wan": 261.3,
+   "net3_wan": 3084.0
   },
   "sh603026": {
-   "date": "2026-10-09",
-   "close": 62.75,
-   "pct": 6.36,
-   "net_main_wan": 11315.2,
-   "r0_wan": 67968.0,
-   "turnover_wan": 1001.1,
-   "net3_wan": 15641.1
+   "date": "2026-10-12",
+   "close": 58.68,
+   "pct": -6.5,
+   "net_main_wan": -16724.6,
+   "r0_wan": 30326.5,
+   "turnover_wan": 640.3,
+   "net3_wan": -3354.4
   },
   "sh603151": {
-   "date": "2026-10-09",
-   "close": 18.79,
-   "pct": 5.27,
-   "net_main_wan": 1371.2,
-   "r0_wan": 316.6,
-   "turnover_wan": 255.0,
-   "net3_wan": 1680.3
+   "date": "2026-10-12",
+   "close": 18.3,
+   "pct": -2.61,
+   "net_main_wan": -505.4,
+   "r0_wan": 0.0,
+   "turnover_wan": 159.0,
+   "net3_wan": 1278.0
   },
   "sh603281": {
-   "date": "2026-10-09",
-   "close": 18.95,
-   "pct": 4.41,
-   "net_main_wan": 1344.3,
-   "r0_wan": 1169.2,
-   "turnover_wan": 161.2,
-   "net3_wan": -167.3
+   "date": "2026-10-12",
+   "close": 18.73,
+   "pct": -1.16,
+   "net_main_wan": -1124.4,
+   "r0_wan": 1268.2,
+   "turnover_wan": 160.5,
+   "net3_wan": -191.4
   },
   "sh603657": {
-   "date": "2026-10-09",
-   "close": 36.38,
-   "pct": -2.65,
-   "net_main_wan": 1701.2,
-   "r0_wan": 1636.6,
-   "turnover_wan": 417.5,
-   "net3_wan": -606.5
+   "date": "2026-10-12",
+   "close": 32.99,
+   "pct": -9.99,
+   "net_main_wan": -568.3,
+   "r0_wan": 4082.1,
+   "turnover_wan": 476.1,
+   "net3_wan": -863.3
   },
   "sh603810": {
-   "date": "2026-10-09",
-   "close": 12.95,
-   "pct": 4.35,
-   "net_main_wan": 439.5,
-   "r0_wan": 1832.6,
-   "turnover_wan": 600.6,
-   "net3_wan": 697.1
+   "date": "2026-10-12",
+   "close": 13.88,
+   "pct": 7.18,
+   "net_main_wan": 2255.7,
+   "r0_wan": 4982.4,
+   "turnover_wan": 857.0,
+   "net3_wan": 2570.3
   },
   "sh603863": {
-   "date": "2026-10-09",
-   "close": 13.88,
-   "pct": 1.91,
-   "net_main_wan": 1629.9,
-   "r0_wan": 6530.2,
-   "turnover_wan": 1171.1,
-   "net3_wan": 10427.3
+   "date": "2026-10-12",
+   "close": 13.13,
+   "pct": -5.4,
+   "net_main_wan": -2187.2,
+   "r0_wan": 2574.3,
+   "turnover_wan": 614.4,
+   "net3_wan": 7256.4
   },
   "sh603906": {
-   "date": "2026-10-09",
-   "close": 21.37,
-   "pct": 2.05,
-   "net_main_wan": -4516.1,
-   "r0_wan": 131364.1,
-   "turnover_wan": 1898.5,
-   "net3_wan": 100269.9
+   "date": "2026-10-12",
+   "close": 20.3,
+   "pct": -5.01,
+   "net_main_wan": 5300.9,
+   "r0_wan": 73853.3,
+   "turnover_wan": 1343.6,
+   "net3_wan": 60253.0
   },
   "sh605058": {
-   "date": "2026-10-09",
-   "close": 53.35,
-   "pct": 10.0,
-   "net_main_wan": 9716.8,
-   "r0_wan": 37248.5,
-   "turnover_wan": 1482.5,
-   "net3_wan": -37288.6
+   "date": "2026-10-12",
+   "close": 54.9,
+   "pct": 2.91,
+   "net_main_wan": 4450.0,
+   "r0_wan": 41560.5,
+   "turnover_wan": 1449.8,
+   "net3_wan": -11506.6
   },
   "sh605378": {
-   "date": "2026-10-09",
-   "close": 18.08,
-   "pct": 4.69,
-   "net_main_wan": 6780.1,
-   "r0_wan": 22716.6,
-   "turnover_wan": 1090.6,
-   "net3_wan": 20737.6
+   "date": "2026-10-12",
+   "close": 17.24,
+   "pct": -4.65,
+   "net_main_wan": -1378.0,
+   "r0_wan": 7187.4,
+   "turnover_wan": 782.7,
+   "net3_wan": 23341.0
+  },
+  "sh605577": {
+   "date": "2026-10-12",
+   "close": 17.82,
+   "pct": 10.0,
+   "net_main_wan": 12217.8,
+   "r0_wan": 19682.4,
+   "turnover_wan": 319.4,
+   "net3_wan": 7904.5
   },
   "sz000678": {
-   "date": "2026-10-09",
-   "close": 12.62,
-   "pct": 3.1,
-   "net_main_wan": -1021.6,
-   "r0_wan": 66235.6,
-   "turnover_wan": 2655.9,
-   "net3_wan": 35407.5
+   "date": "2026-10-12",
+   "close": 11.36,
+   "pct": -9.98,
+   "net_main_wan": -13150.1,
+   "r0_wan": 33583.6,
+   "turnover_wan": 1422.5,
+   "net3_wan": -15564.7
   },
   "sz000869": {
-   "date": "2026-10-09",
-   "close": 19.39,
-   "pct": 3.36,
-   "net_main_wan": -2621.9,
-   "r0_wan": 14064.3,
-   "turnover_wan": 426.7,
-   "net3_wan": 8189.2
+   "date": "2026-10-12",
+   "close": 18.34,
+   "pct": -5.37,
+   "net_main_wan": -2796.5,
+   "r0_wan": 4190.5,
+   "turnover_wan": 266.3,
+   "net3_wan": 4935.3
   },
   "sz000993": {
-   "date": "2026-10-09",
-   "close": 17.89,
-   "pct": 0.85,
-   "net_main_wan": -11658.2,
-   "r0_wan": 48917.5,
-   "turnover_wan": 1580.5,
-   "net3_wan": -14270.4
+   "date": "2026-10-12",
+   "close": 18.21,
+   "pct": 1.79,
+   "net_main_wan": 6382.7,
+   "r0_wan": 54181.5,
+   "turnover_wan": 1674.7,
+   "net3_wan": -7408.9
   },
   "sz001318": {
-   "date": "2026-10-09",
-   "close": 13.43,
-   "pct": 4.68,
-   "net_main_wan": 3628.3,
-   "r0_wan": 10685.1,
-   "turnover_wan": 1021.3,
-   "net3_wan": 12513.6
+   "date": "2026-10-12",
+   "close": 12.75,
+   "pct": -5.06,
+   "net_main_wan": -2561.7,
+   "r0_wan": 3521.6,
+   "turnover_wan": 668.6,
+   "net3_wan": 1644.2
   },
   "sz001325": {
-   "date": "2026-10-09",
-   "close": 38.96,
-   "pct": 8.13,
-   "net_main_wan": 2234.5,
-   "r0_wan": 849.2,
-   "turnover_wan": 1848.8,
-   "net3_wan": 1628.2
+   "date": "2026-10-12",
+   "close": 38.57,
+   "pct": -0.9,
+   "net_main_wan": -1377.5,
+   "r0_wan": 429.7,
+   "turnover_wan": 1252.5,
+   "net3_wan": 999.2
   },
   "sz001391": {
-   "date": "2026-10-09",
-   "close": 4.05,
-   "pct": 3.85,
-   "net_main_wan": 6806.0,
-   "r0_wan": 11636.6,
-   "turnover_wan": 102.1,
-   "net3_wan": 10645.3
+   "date": "2026-10-12",
+   "close": 4.16,
+   "pct": 2.72,
+   "net_main_wan": 6690.2,
+   "r0_wan": 11256.9,
+   "turnover_wan": 106.9,
+   "net3_wan": 15493.8
   },
   "sz002030": {
-   "date": "2026-10-09",
-   "close": 6.03,
-   "pct": 1.17,
-   "net_main_wan": -3031.0,
-   "r0_wan": 13099.2,
-   "turnover_wan": 537.5,
-   "net3_wan": 6497.4
+   "date": "2026-10-12",
+   "close": 5.84,
+   "pct": -3.15,
+   "net_main_wan": -5147.9,
+   "r0_wan": 3951.8,
+   "turnover_wan": 277.3,
+   "net3_wan": -752.7
   },
   "sz002044": {
-   "date": "2026-10-09",
-   "close": 4.9,
-   "pct": 8.41,
-   "net_main_wan": 19763.2,
-   "r0_wan": 65958.7,
-   "turnover_wan": 670.1,
-   "net3_wan": 18871.6
+   "date": "2026-10-12",
+   "close": 4.88,
+   "pct": -0.41,
+   "net_main_wan": -2464.8,
+   "r0_wan": 69672.1,
+   "turnover_wan": 628.9,
+   "net3_wan": 12277.7
   },
   "sz002105": {
-   "date": "2026-10-09",
-   "close": 6.51,
-   "pct": 5.51,
-   "net_main_wan": 8049.5,
-   "r0_wan": 6120.8,
-   "turnover_wan": 886.3,
-   "net3_wan": 9470.5
+   "date": "2026-10-12",
+   "close": 6.37,
+   "pct": -2.15,
+   "net_main_wan": -2786.8,
+   "r0_wan": 4818.4,
+   "turnover_wan": 1155.3,
+   "net3_wan": 6074.2
   },
   "sz002125": {
-   "date": "2026-10-09",
-   "close": 12.62,
-   "pct": 3.02,
-   "net_main_wan": 5206.6,
-   "r0_wan": 8681.7,
-   "turnover_wan": 567.2,
-   "net3_wan": 9306.6
+   "date": "2026-10-12",
+   "close": 12.24,
+   "pct": -3.01,
+   "net_main_wan": -6034.7,
+   "r0_wan": 5847.0,
+   "turnover_wan": 410.0,
+   "net3_wan": 2401.3
   },
   "sz002182": {
-   "date": "2026-10-09",
-   "close": 12.3,
-   "pct": 6.22,
-   "net_main_wan": 12194.0,
-   "r0_wan": 18860.7,
-   "turnover_wan": 624.6,
-   "net3_wan": 27514.0
+   "date": "2026-10-12",
+   "close": 11.14,
+   "pct": -9.43,
+   "net_main_wan": -14496.5,
+   "r0_wan": 24480.9,
+   "turnover_wan": 539.2,
+   "net3_wan": 14173.3
   },
   "sz002565": {
-   "date": "2026-10-09",
-   "close": 9.45,
-   "pct": 1.83,
-   "net_main_wan": 1063.7,
-   "r0_wan": 175406.9,
-   "turnover_wan": 2499.7,
-   "net3_wan": 96853.1
+   "date": "2026-10-12",
+   "close": 8.86,
+   "pct": -6.14,
+   "net_main_wan": -11123.4,
+   "r0_wan": 65698.5,
+   "turnover_wan": 1438.6,
+   "net3_wan": 78272.2
   },
   "sz002709": {
-   "date": "2026-10-09",
-   "close": 35.66,
-   "pct": 9.09,
-   "net_main_wan": 206965.8,
-   "r0_wan": 581977.1,
-   "turnover_wan": 1341.5,
-   "net3_wan": 226607.4
+   "date": "2026-10-12",
+   "close": 34.74,
+   "pct": -2.63,
+   "net_main_wan": -33866.0,
+   "r0_wan": 466267.5,
+   "turnover_wan": 1098.7,
+   "net3_wan": 194243.8
   },
   "sz002812": {
-   "date": "2026-10-09",
-   "close": 47.84,
-   "pct": 4.36,
-   "net_main_wan": 9792.1,
-   "r0_wan": 110206.3,
-   "turnover_wan": 562.6,
-   "net3_wan": -327.9
+   "date": "2026-10-12",
+   "close": 46.84,
+   "pct": -2.11,
+   "net_main_wan": -14664.2,
+   "r0_wan": 95833.1,
+   "turnover_wan": 471.8,
+   "net3_wan": -14810.6
   },
   "sz002923": {
-   "date": "2026-10-09",
-   "close": 12.26,
-   "pct": 6.61,
-   "net_main_wan": 1441.8,
-   "r0_wan": 22847.1,
-   "turnover_wan": 2071.6,
-   "net3_wan": 6601.6
+   "date": "2026-10-12",
+   "close": 11.55,
+   "pct": -5.71,
+   "net_main_wan": -4822.1,
+   "r0_wan": 10626.3,
+   "turnover_wan": 1367.7,
+   "net3_wan": 48.9
   }
  }
 }
