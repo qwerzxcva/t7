@@ -1,5 +1,5 @@
 {
- "ts": "2026-10-13T06:30:01.480050",
+ "ts": "2026-10-13T08:30:01.697533",
  "date": "2026-10-13",
  "valuation": {
   "001594": {
@@ -25,6 +25,46 @@
  },
  "valuation_ok": 5,
  "crypto_news": [
+  {
+   "src": "chainthink",
+   "title": "过去24小时全网爆仓6.72亿美元，超14万人被爆仓",
+   "text": "ChainThink 消息，10 月 13 日，据 Coinglass 数据，过去 24 小时全网爆仓 6.72 亿美元，其中多单爆仓 5.86 亿美元，空单爆仓 8592 万美元。同期共有 144,020 人被爆仓，最大单笔爆仓发生在 Binance 的 BTCUSDT 交易对，价值 965.24"
+  },
+  {
+   "src": "chainthink",
+   "title": "Meta发布Muse Wonder系列AI模型，股价涨超3%",
+   "text": "ChainThink 消息，10 月 13 日，Meta 发布 Muse Wonder 与 Muse Wonder Full 两款 AI 模型，并称其在多项基准测试中比肩或超过 OpenAI、Anthropic 的顶尖产品。Meta 表示，Muse Wonder 将用于提升 Muse 助手留存率。M"
+  },
+  {
+   "src": "chainthink",
+   "title": "Anthropic强化蒸馏攻击防御，已封禁数万个相关账号",
+   "text": "ChainThink消息，10月13日，据Anthropic官方公告，公司新部署的防护措施已使蒸馏攻击者从平台提取的Claude推理Token数量减少约90%至99%，目前已封禁数万个相关账号，部分封禁在攻击开始后两小时内完成。Anthropic表示，攻击者通常通过虚假账号网络批量获取模型回复，未经"
+  },
+  {
+   "src": "chainthink",
+   "title": "韩国股指低开超3%，SK海力士跌4%",
+   "text": "ChainThink 消息，10 月 13 日，据行情数据显示，韩国 KOSPI 指数开盘下跌 208.95 点，跌幅 3.27%，报 6175.29 点。 SK 海力士跌 4%，三星电子跌 3%。"
+  },
+  {
+   "src": "chainthink",
+   "title": "4.06亿美元加密货币多单遭清算，比特币跌破82000美元",
+   "text": "ChainThink消息，10月12日晚，比特币跌破82000美元。过去24小时全网杠杆仓位清算总额达4.8861亿美元，涉及11.8142万名交易者。其中，多单清算金额为4.0648亿美元，占比83.2%；空单清算金额为8214万美元。按资产计，以太坊清算金额最高，达1.1519亿美元，比特币为1"
+  },
+  {
+   "src": "chainthink",
+   "title": "Yuga Labs区块链副总裁：建议用户立即撤销Blur合约授权",
+   "text": "ChainThink 消息，10 月 13 日，据 X 平台消息，Yuga Labs 区块链业务副总裁 Quit 表示，鉴于 Blur 宣布将于 11 月 12 日停用前端，建议用户撤销对 Blur 智能合约的 NFT 授权。Quit 称，其调查暂未发现 Blur 现有合约存在可利用漏洞，但相关合约"
+  },
+  {
+   "src": "chainthink",
+   "title": "过去1小时全网爆仓1.49亿美元，多单爆仓1.46亿美元",
+   "text": "ChainThink消息，10月13日，据Coinglass数据，过去1小时全网爆仓1.49亿美元，其中多单爆仓1.46亿美元，空单爆仓363.66万美元。 其中，比特币爆仓4852.39万美元，以太坊爆仓4538.34万美元。"
+  },
+  {
+   "src": "chainthink",
+   "title": "Blur将于11月12日停用网站前端，链上协议继续运行",
+   "text": "ChainThink 消息，据官方公告，Blur 将于 11月12日停用 blur.io 网站前端，但其交易市场协议仍将在链上运行，BLUR 仍将控制手续费开关。同日，Blend 将停止撮合新贷款。借款人可在此之前偿还贷款，或选择让贷款违约；此后，Blur 将提供前端工具协助用户从 Blend 提取"
+  },
   {
    "src": "chainthink",
    "title": "USDC Treasury在Solana网络新增铸造2.5亿枚USDC",
@@ -59,46 +99,6 @@
    "src": "chainthink",
    "title": "美股存储及光通信板块跌幅收窄，美光现跌2.88%，AAOI跌6.47%",
    "text": "ChainThink 消息，10 月 13 日，据行情数据显示，美股存储及光通信板块跌幅收窄。存储板块中，美光科技（MU）跌 2.88%、西部数据（WDC）跌 2.11%、闪迪（SNDK）跌 5.68%、希捷科技（STX）跌 3.62%，SK 海力士（SKHY）跌 3.67%。光通信概念股中，App"
-  },
-  {
-   "src": "chainthink",
-   "title": "Aave V4 在 Arc 上的存款规模突破 3 亿美元",
-   "text": "ChainThink 消息，10 月 12 日，据 Aave 官方消息，Aave V4 在 Circle 推出的 Layer 1 区块链 Arc 上的存款规模已突破 3 亿美元。 目前官方未披露该存款规模的具体构成。"
-  },
-  {
-   "src": "chainthink",
-   "title": "美国9月CPI前瞻：机构预计核心通胀放缓，整体CPI同比或升至3.7%",
-   "text": "ChainThink消息，多家华尔街机构预计，美国9月核心CPI环比增速将从8月的0.29%放缓至0.21%；受能源价格上涨推动，整体CPI环比增速或升至0.58%，同比增速接近3.7%。机构预测中值显示，美国9月整体CPI环比上涨0.58%、同比上涨3.64%，核心CPI环比上涨0.21%、同比上"
-  },
-  {
-   "src": "chainthink",
-   "title": "XRP新财库公司Evernorth上市首日一度涨超13%，持有约4.73亿枚XRP",
-   "text": "ChainThink 消息，10 月 12 日，据行情数据显示，专注于 XRP 财库的 Evernorth Holdings（XRPN）登陆纳斯达克，上市首日股价一度上涨 13.43%，随后回吐涨幅，现涨 1.49%。公司预计持有约 4.73 亿枚 XRP，按当前价格计算价值约 6.57 亿美元，并"
-  },
-  {
-   "src": "chainthink",
-   "title": "Binance报告：BTC加息后涨9.3%，美债收益率上升主要由实际利率驱动",
-   "text": "据Binance研究周报，近期美国国债收益率上升主要由实际利率走高推动，而非通胀预期升温。自8月31日以来，美国10年期国债收益率累计上升47个基点，其中实际收益率贡献43个基点，盈亏平衡通胀率仅上升4个基点；10年期实际收益率曾于10月5日升至2.95%，创2008年以来新高。自9月16日美联储加"
-  },
-  {
-   "src": "chainthink",
-   "title": "苹果盘初逆势涨近2%，逼近历史新高",
-   "text": "ChainThink消息，10月12日，据行情数据显示，苹果盘初涨近2%，现报341.30美元，逼近历史新高。苹果此前宣布将于10月13日举行“欢迎回家”主题活动，预计推出新一代Apple TV 4K、HomePod mini及全新家庭中枢设备。此次发布也是John Ternus出任苹果首席执行官后"
-  },
-  {
-   "src": "chainthink",
-   "title": "Ledger钱包欧洲供应链疑似遭污染，已发现两台设备被植入间谍软件",
-   "text": "ChainThink 消息，10月12日，据加密社群用户 Johannes 发文，其在欧洲零售商 MediaMarkt 不同门店购买的两台 Ledger 硬件钱包均发现疑似间谍软件及硬件改装，包括额外线缆和 LTE 模块。Johannes 称，已将第一台设备交由相关人员分析，并计划将第二台寄送给 L"
-  },
-  {
-   "src": "chainthink",
-   "title": "CleanSpark获22.76亿美元资金完成数据中心建设，Meta租约预计带来66亿美元收入",
-   "text": "ChainThink消息，CleanSpark宣布获得22.76亿美元资金，用于完成Sandersville数据中心建设。在Meta租约支持下，该数据中心预计将带来66亿美元收入。该项目9月挖出529枚比特币，并出售702枚，其中2枚通过现货交易出售，700枚通过看涨期权出售，平均售价为72928美"
-  },
-  {
-   "src": "chainthink",
-   "title": "Palantir创历史新高，美股AI应用软件股持续活跃",
-   "text": "ChainThink 消息，10月12日，据行情数据显示，美股 AI 应用软件股持续活跃，Palantir（PLTR.US）涨超1%并再创新高；ServiceNow（NOW.US）、Shopify（SHOP.US）和赛富时（CRM.US）涨超3%，SAP SE（SAP.US）、Snap（SNAP.U"
   }
  ],
  "crypto_ok": 15,
